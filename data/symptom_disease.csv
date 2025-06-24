@@ -1,0 +1,75 @@
+symptom,label
+I have a fever and body aches,flu
+My stomach hurts and I feel nauseous,gastroenteritis
+I twisted my ankle and it's swollen,sprain
+I have a constant headache and sensitivity to light,migraine
+I feel shortness of breath and chest pain,heart_attack
+I have a sore throat and difficulty swallowing,strep_throat
+I have a runny nose and sneezing,common_cold
+I am experiencing joint pain and stiffness,arthritis
+I cut my finger and it's bleeding,minor_cut
+I have a rash on my skin and it's itchy,eczema
+I feel dizzy and lightheaded,vertigo
+I have trouble sleeping and always feel tired,insomnia
+I have memory loss and confusion,dementia
+I have a bee sting and it's swollen,insect_sting
+I have a toothache and it's unbearable,tooth_infection
+I have burning sensation during urination,urinary_tract_infection
+I can't focus and feel mentally exhausted,adhd
+My neck feels stiff and I have shoulder pain,cervical_spondylosis
+I got sunburn and my skin is red,sunburn
+I have frequent acid reflux and heartburn,acid_reflux
+I have a constant urge to urinate,bladder_infection
+My mole has changed color and shape,skin_cancer
+I have a nasal congestion and facial pain,sinusitis
+I have a bruise on my leg and it's painful,contusion
+I have chronic cough and mucus production,bronchitis
+I have a painful lump behind my ear,lymphadenitis
+I have abdominal pain and blood in stool,gastrointestinal_bleeding
+I have severe pain in lower back and side,kidney_stones
+I feel pressure behind my eyes,sinus_pressure
+I feel tingling in my hands and feet,neuropathy
+"My skin has dry, scaly patches",psoriasis
+I feel a dull ache in my lower back,back_pain
+I have diarrhea and abdominal cramps,food_poisoning
+I have swollen lymph nodes and fever,infection
+I feel tired even after sleeping well,chronic_fatigue
+My eyes are red and watery,allergic_conjunctivitis
+I have ulcers in my mouth,mouth_ulcers
+My scalp is itchy and flaky,dandruff
+I have pain while swallowing and earache,throat_infection
+I have blood in my urine,urinary_stone
+I have chest tightness and shortness of breath,asthma
+My throat hurts and I lost my voice,laryngitis
+I have a painful blister on my lip,cold_sore
+I have persistent nausea and bloating,gastritis
+I have numbness in one side of my body,stroke
+I see flashes of light and have blurry vision,retinal_detachment
+I have sharp pain in the upper right abdomen,gallstones
+I have trouble breathing and tight chest,panic_attack
+My joints ache in the morning and feel stiff,rheumatoid_arthritis
+I have persistent itching in groin area,fungal_infection
+My lower abdomen hurts during periods,dysmenorrhea
+I have pus-filled bumps on my face,acne
+My lips are dry and cracked,chapped_lips
+My ear hurts and I have trouble hearing,ear_infection
+My fingers feel numb in the cold,raynaud_syndrome
+My back hurts when I bend or lift,herniated_disc
+I have white patches in my mouth,oral_thrush
+My throat feels scratchy and dry,pharyngitis
+My leg feels heavy and painful after sitting long,deep_vein_thrombosis
+I have sudden high fever and stiff neck,meningitis
+I feel my heart racing for no reason,tachycardia
+My gums bleed when I brush my teeth,gingivitis
+I have sudden weight loss and fatigue,thyroid_disorder
+I feel anxious and my heart beats fast,anxiety_disorder
+My face is red and flushed suddenly,rosacea
+I have bloating and gas after eating dairy,lactose_intolerance
+I have frequent urination and increased thirst,diabetes
+I have a cough that won't go away and weight loss,tuberculosis
+My eyes feel dry and gritty,dry_eye_syndrome
+I have a sore on my genitals and pain during urination,std
+My skin is turning yellow and I feel tired,hepatitis
+I have itchy scalp and small insects in my hair,head_lice
+I have shaking hands and stiffness,parkinson
+I have intense mood swings and irritability,bipolar_disorder
