@@ -5,7 +5,7 @@ A simple Streamlit app that predicts the most likely disease based on user-provi
 ## 🧪 Features
 
 - Preprocessed medical symptom dataset
-- Cosine similarity for symptom-disease match
+- Random Forest for symptom-disease match
 - Clean UI with Streamlit
 
 ## 🚀 Run it locally
